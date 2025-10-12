@@ -33,22 +33,22 @@ I started as a dentist then decided to follow something I truly desire. I am cur
 <img align="center" src="https://profile-counter.glitch.me/{Khaled91Alkhatib}/count.svg" />
 </p> -->
 
-![Caleb Katib](https://github.com/Caleb-Katib/Caleb-Katib/blob/main/khaled.svg)
+![Khaled Alkhatib](https://github.com/Khaled-Alkhatib/Khaled-Alkhatib/blob/main/khaled.svg)
 
 <p align="center">
 I’m a passionate cybersecurity analyst with a strong foundation in web development. I focus on enhancing security through innovative solutions and am constantly expanding my knowledge in the ever-evolving tech landscape.
 <br><br>
-  • <a href="https://drive.google.com/file/d/1h5fUiteby2GmqUNbXbBX44co_a0Ait_Y/view" target="_blank">Resume</a>
+  • <a href="https://drive.google.com/file/d/1-H3aEWIFnvniUwNXba35ZjNTsLf_NuJf/view?usp=sharing" target="_blank">Resume</a>
  • 
- <a href= "https://calebkatib.com/" target="_blank">Portfolio</a> • 
+ <a href= "https://www.khaledalkhatib.com/" target="_blank">Portfolio</a> • 
 <br>
 <!-- <a href="">TEXT</a> -->
 <!-- | <a href="">TEXT</a> -->
 <br>
 
  <p align="center">
-  <a href="https://www.linkedin.com/in/calebkatib/" target="_blank">
-    <img src="https://img.shields.io/badge/-Caleb%20Katib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/calebkatib/" />
+  <a href="https://www.linkedin.com/in/khaledalkhatib/" target="_blank">
+    <img src="https://img.shields.io/badge/-Khaled%20Alkhatib-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khaledalkhatib/" />
   </a>
 </p>
 
@@ -64,6 +64,6 @@ I’m a passionate cybersecurity analyst with a strong foundation in web develop
 
 </p>
 
-![Khaled Alkhatib](https://github.com/Khaled91Alkhatib/Khaled91Alkhatib/blob/main/bottom-header.svg)
+![Khaled Alkhatib](https://github.com/Khaled-Alkhatib/Khaled-Alkhatib/blob/main/bottom-header.svg)
 <br>
 </p>
