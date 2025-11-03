@@ -36,7 +36,9 @@ I started as a dentist then decided to follow something I truly desire. I am cur
 ![Khaled Alkhatib](https://github.com/Khaled-Alkhatib/Khaled-Alkhatib/blob/main/khaled.svg)
 
 <p align="center">
-I’m a passionate cybersecurity analyst with a strong foundation in web development. I focus on enhancing security through innovative solutions and am constantly expanding my knowledge in the ever-evolving tech landscape.
+Full Stack Web Developer passionate about creating efficient and user-friendly web applications. Currently focusing on building
+modern applications with Angular and Go, with a strong commitment to continuous learning and exploring new technologies to
+enhance development practices.
 <br><br>
   • <a href="https://drive.google.com/file/d/1-H3aEWIFnvniUwNXba35ZjNTsLf_NuJf/view?usp=sharing" target="_blank">Resume</a>
  • 
