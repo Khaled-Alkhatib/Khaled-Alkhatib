@@ -40,7 +40,7 @@ Full Stack Web Developer passionate about creating efficient and user-friendly w
 modern applications with Angular and Go, with a strong commitment to continuous learning and exploring new technologies to
 enhance development practices.
 <br><br>
-  • <a href="https://drive.google.com/file/d/1-H3aEWIFnvniUwNXba35ZjNTsLf_NuJf/view?usp=sharing" target="_blank">Resume</a>
+  • <a href="https://drive.google.com/file/d/1EDpi0sglmJVERDOLAjsf1YP8dXBhrO27/view?usp=sharing" target="_blank">Resume</a>
  • 
  <a href= "https://www.khaledalkhatib.com/" target="_blank">Portfolio</a> • 
 <br>
